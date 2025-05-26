@@ -10,3 +10,5 @@ The changes have been made successfully.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish this lesson
+- [ ] create my Readme file
